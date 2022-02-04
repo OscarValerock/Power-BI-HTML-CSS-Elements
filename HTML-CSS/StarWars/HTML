@@ -1,0 +1,31 @@
+01 HTML = 
+//Based on https://codepen.io/IndependentSw/pen/zKZxzJ
+      
+
+      [01 CSS]    &                // Stylesheet
+
+
+"<html lang='en'>
+
+<head>
+		<link rel='stylesheet' href='starwars.css'/>
+	</head>
+  <body>
+  	<div id='intro'> A long time ago, in a galaxy far,<br> far away....</div>
+  	<div id='logo'></div>
+    <div id='scroller'>
+    	<div>
+	      <p>
+	        It is a period of CSS and HTML discovery
+            in the Power BI Galaxy
+	      </p>
+	      <p>
+	        Join us, we have Cookies!
+	      </p>
+
+      </div>
+    </div>
+  </body>
+
+
+</html>"
