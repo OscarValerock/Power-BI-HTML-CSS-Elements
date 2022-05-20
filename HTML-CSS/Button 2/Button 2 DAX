@@ -45,16 +45,16 @@ Button 2 = '
   </head>
 
   <link
-    rel="stylesheet"
-    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"
+    rel='stylesheet'
+    href='https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined'
   />
 
   <body>
     <span
-      class="material-symbols-outlined button icon_size icon-button icon-button__icon"
+      class='material-symbols-outlined button icon_size icon-button icon-button__icon'
       >search</span
     >
-    <span class="material-symbols-outlined button icon_size">search</span>
+    <span class='material-symbols-outlined button icon_size'>search</span>
   </body>
 </html>
 '
