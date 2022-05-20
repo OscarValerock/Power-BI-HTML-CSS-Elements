@@ -1,0 +1,60 @@
+Button 2 = "
+<html>
+  <head>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+      }
+
+      .button {
+        background-color: #3e68ff;
+        align-items: center;
+        border: none;
+        box-shadow: 0 3px 5px rgba(0, 0, 0, 0.18);
+        border-radius: 50%;
+        color: #fff;
+        cursor: pointer;
+        padding: 0.15em;
+        text-align: center;
+        height: 2.5rem;
+        width: 2.5rem;
+        transition: 200ms all ease-out;
+      }
+
+      .button:hover {
+        background-color: #0037fe;
+      }
+
+      .button:active {
+        outline: none;
+        box-shadow: 0 0 0 5px #cee21a;
+        height: 2.5rem;
+        width: 2.5rem;
+      }
+
+      span.icon_size {
+        font-size: 30px;
+      }
+    </style>
+  </head>
+
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"
+  />
+
+  <body>
+    <span
+      class="material-symbols-outlined button icon_size icon-button icon-button__icon"
+      >search</span
+    >
+    <span class="material-symbols-outlined button icon_size">search</span>
+  </body>
+</html>
+"
