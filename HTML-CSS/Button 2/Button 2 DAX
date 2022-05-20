@@ -1,4 +1,4 @@
-Button 2 = "
+Button 2 = '
 <html>
   <head>
     <style>
@@ -57,4 +57,4 @@ Button 2 = "
     <span class="material-symbols-outlined button icon_size">search</span>
   </body>
 </html>
-"
+'
